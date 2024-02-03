@@ -1,5 +1,4 @@
-
-　　　　　　　　　　　　![HiDoggyGIF](https://user-images.githubusercontent.com/81811670/229680287-97fa1e6a-8dd2-4254-9e42-ca74e88e428b.gif)
+![HiDoggyGIF](https://user-images.githubusercontent.com/81811670/229680287-97fa1e6a-8dd2-4254-9e42-ca74e88e428b.gif)
 
 <hr/>
 ## 스프링부트에서 AI 채팅 서비스 개발 하기<br/>
@@ -44,12 +43,15 @@
 <br/>
 
 ## 2.출처 <br/>
- ﻿https://platform.openai.com/docs/introduction<br/>
- ﻿https://okky.kr/articles/1367408<br/>
- ﻿https://morioh.com/p/e7c9852e417d<br/>
- ﻿https://github.com/flashvayne/chatgpt-spring-boot-starter<br/>
- ﻿https://community.openai.com/t/how-does-chatgpt-have-such-massive-token-limit/25738<br/>
+
+﻿https://platform.openai.com/docs/introduction<br/>
+﻿https://okky.kr/articles/1367408<br/>
+﻿https://morioh.com/p/e7c9852e417d<br/>
+﻿https://github.com/flashvayne/chatgpt-spring-boot-starter<br/>
+﻿https://community.openai.com/t/how-does-chatgpt-have-such-massive-token-limit/25738<br/>
 
 <br/><br/>
+
 ## 3. 완료일 : 2월 14일 <br/>
+
 https://blog.naver.com/sleekydz86/223015865214
