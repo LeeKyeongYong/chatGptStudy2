@@ -12,4 +12,5 @@ public class ImgDtoRq {
     private String prompt;
     private Integer n;
     private String size;
+    private String model;
 }

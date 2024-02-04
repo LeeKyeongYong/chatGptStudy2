@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.imgbot.bot.ChatGptStudy2Application
+
