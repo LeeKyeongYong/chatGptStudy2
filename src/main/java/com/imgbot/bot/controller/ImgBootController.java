@@ -13,11 +13,9 @@ public class ImgBootController {
     private RestTemplate restTemplate;
     private static final String open_url="https://api.openai.com/v1/images/generations";
     //@PostMapping()
-    @RequestMapping(value="/generateImage", method = RequestMethod.POST)
+    @PostMapping("/generateImage")
     public String generateImage(@RequestBody ImgDtoRq imgDtoRq){
-        imgDtoRq.setModel("dall-e-3");
         ImgDtoRp imgDtoRp = restTemplate.postForObject(open_url,imgDtoRq, ImgDtoRp.class);
-        //setDoOutput
         return imgDtoRp.getData().get(0).get("url").toString();
     }
 }
